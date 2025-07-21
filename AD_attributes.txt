@@ -1,0 +1,40 @@
+Active Directory Attributes
+
+This document lists all the Active Directory attributes that are read from or written to by the PowerShell scripts in the `Joiner` folder.
+
+## Read & Write
+
+*   **GivenName**: Read to check for duplicates and to create usernames. Written to remove special characters and then restored.
+*   **Surname**: Read to check for duplicates and to create usernames. Written to remove special characters and then restored.
+*   **DisplayName**: Read from `Get-ADUser`, and written when `GivenName` or `Surname` are changed.
+*   **UserPrincipalName**: Read to check for duplicates, and written when a mailbox is not provisioned or when a mailbox is created.
+*   **Office**: Read from the core data and written to with an updated value for Germains and AB Agri remote users.
+
+## Read-Only
+
+*   **SamAccountName**: Read to check for duplicates and to retrieve user details.
+*   **DistinguishedName**: Read from `Get-ADUser`.
+*   **CanonicalName**: Read from `Get-ADUser`.
+*   **EmailAddress**: Read from `Get-ADUser`.
+*   **PrimarySmtpAddress**: Read from `Get-Mailbox`.
+*   **Department**: Read from the core data, but not directly used in any AD operations.
+
+## Write-Only
+
+*   **AccountExpirationDate**: Set based on the data from the JSON file.
+*   **ChangePasswordAtLogon**: Set to `$false`.
+*   **extensionAttribute9**: Set to the user's `CanonicalName`.
+*   **Name**: Set when `Rename-ADObject` is called.
+*   **cn**: Set when `Rename-ADObject` is called.
+
+## Attributes from the provided list that were not found
+
+*   `extensionAttribute1`
+*   `extensionAttribute11`
+*   `extensionAttribute12`
+*   `extensionAttribute14`
+*   `extensionAttribute15`
+*   `ScriptPath`
+*   `Country`
+*   `Company`
+*   `Description`
