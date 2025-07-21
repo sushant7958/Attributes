@@ -1,0 +1,1030 @@
+﻿{
+	"ABA_Belfast-": {
+		"StreetAddress": "12 Orby Link",
+		"City": "Belfast",
+		"State": "Northern Ireland",
+		"PostalCode": "BT5 5HW"
+	},
+	"ABA_Bournemouth-": {
+		"StreetAddress": "1 Cobham Road",
+		"City": "Wimbourne",
+		"State": "Bournemouth",
+		"PostalCode": "BH21 7PN"
+	},
+	"ABA_Cardiff-": {
+		"StreetAddress": "Maes-Y-Coed Road",
+		"City": "Cardiff",
+		"State": "Wales",
+		"PostalCode": "CF14 4UZ"
+	},
+	"ABA_Chester-": {
+		"StreetAddress": "Chester Rd",
+		"City": "Chester",
+		"PostalCode": "CH4 8RN"
+	},
+	"ABA_Coleraine-": {
+		"StreetAddress": "Unit 32 Gateside Road",
+		"City": "Coleraine",
+		"State": "County Londonderry",
+		"PostalCode": "BT52 2PB"
+	},
+	"ABA_Dundee-": {
+		"StreetAddress": "Fowler Road West Pitkerro Industrial Estate, Broughty Ferry",
+		"City": "Dundee",
+		"PostalCode": "DD5 3RU"
+	},
+	"ABA_Dungannon-": {
+		"StreetAddress": "25 Old Moy Road",
+		"City": "Dungannon",
+		"State": "Northern Ireland",
+		"PostalCode": "BT71 6PS"
+	},
+	"ABA_Gateshead-": {
+		"StreetAddress": "Unit 4, Lanchester Abbotsford Road Depot, Abbotsford Road",
+		"City": "Gateshead",
+		"State": "Tyne and Wear",
+		"PostalCode": "NE10 0EX"
+	},
+	"ABA_Glasgow-": {
+		"StreetAddress": "180 Glentanar Road",
+		"City": "Glasgow",
+		"State": "Scotland",
+		"PostalCode": "G22 7XS"
+	},
+	"ABA_HO Maiden-": {
+		"StreetAddress": "Allied Bakeries, 1 Vanwall Place, Vanwall Business Park",
+		"City": "Maidenhead",
+		"PostalCode": "SL6 4US"
+	},
+	"ABA_Launceston-": {
+		"StreetAddress": "3-4 Quarry Cr",
+		"City": "Launceston",
+		"State": "Cornwall",
+		"PostalCode": "PL15 7PF"
+	},
+	"ABA_Lincoln-": {
+		"StreetAddress": "Exchange Road",
+		"City": "Lincoln",
+		"PostalCode": "LN6 3JZ"
+	},
+	"ABA_Liverpool-": {
+		"StreetAddress": "Dunnings Bridge Road, Netherton",
+		"City": "Liverpool",
+		"PostalCode": "L30 6TG"
+	},
+	"ABA_LiverpoolH-": {
+		"StreetAddress": "Dunnings Bridge Road, Netherton",
+		"City": "Liverpool",
+		"PostalCode": "L30 6TG"
+	},
+	"ABA_Norwich-": {
+		"StreetAddress": "Diamond Rd",
+		"City": "Norwich",
+		"PostalCode": "NR6 6AN"
+	},
+	"ABA_Orpington-": {
+		"StreetAddress": "Cray Avenue, Orpington",
+		"City": "Kent",
+		"PostalCode": "BR5 3RT"
+	},
+	"ABA_Stevenage-": {
+		"StreetAddress": "Cartwright Road",
+		"City": "Stevenage",
+		"State": "Hertfordshire",
+		"PostalCode": "SG1 4QA"
+	},
+	"ABA_Stockport-": {
+		"StreetAddress": "Castle Hill",
+		"City": "Bredbury",
+		"State": "Stockport",
+		"PostalCode": "SK6 2RY"
+	},
+	"ABA_Stoke-": {
+		"StreetAddress": "Liverpool Road",
+		"City": "Newcastle Under Lyme",
+		"State": "Staffordshire",
+		"PostalCode": "ST5 9HT"
+	},
+	"ABA_Walthamstow-": {
+		"StreetAddress": "66-68 Argall Avenue",
+		"City": "London",
+		"PostalCode": "E10 7AB"
+	},
+	"ABA_West Brom-": {
+		"StreetAddress": "Birmingham Road",
+		"City": "West Bromwich",
+		"State": "Birmingham",
+		"PostalCode": "B71 4JH"
+	},
+	"ABEZ_Barueri-": {
+		"StreetAddress": "Al Madeira 328 - 20 andar, sala 2005",
+		"City": "Barueri / SP",
+		"State": "Brazil",
+		"PostalCode": "06454-010"
+	},
+	"ABEZ_Darmstadt-": {
+		"StreetAddress": "Feldbergstra 78, 64293 Darmstadt",
+		"City": "Darmstadt",
+		"State": "Darmstadt",
+		"PostalCode": "64293"
+	},
+	"ABEZ_Plantation-": {
+		"StreetAddress": "8211 W Broward Blvd, Ste 375",
+		"City": "Fort Lauderdale",
+		"State": "Florida",
+		"PostalCode": "33324"
+	},
+	"ABEZ_Rajamaki-": {
+		"StreetAddress": "Tykkimäentie 15 b, 05200 Rajamäki",
+		"City": "Rajamäki",
+		"State": "Rajamäki",
+		"PostalCode": "05200"
+	},
+	"ABEZ_Shanghai-": {
+		"StreetAddress": "2802, T2 Building, Raffles City Changning, 1189 Chang Ning Road, Changning District",
+		"City": "Shanghai",
+		"State": "Shanghai",
+		"PostalCode": "200051"
+	},
+	"ABEZ_Singapore-": {
+		"StreetAddress": "28 International Business Park, #04-01 German Centre",
+		"City": "Singapore",
+		"State": "Singapore",
+		"PostalCode": "609916"
+	},
+	"ABF_Maidenhead-": {
+		"StreetAddress": "1 Vanwall Place, Vanwall Business Park, Vanwall Road",
+		"City": "Maidenhead",
+		"State": "Berkshire",
+		"PostalCode": "SL6 4UF"
+	},
+	"ABF_INNOVATION WAY-": {
+		"StreetAddress": "Peterborough Business Park, 64 Innovation Way, Lynch Wood",
+		"City": "Peterborough",
+		"State": "Cambridgeshire",
+		"PostalCode": "PE2 6FL"
+	},
+	"ABF_Russell Squ-": {
+		"StreetAddress": "50-51 Russell Square",
+		"City": "London",
+		"PostalCode": "WC1H 0DG"
+	},
+	"ABF_Samson Place-": {
+		"StreetAddress": "1 Samson Place, London Road, Hampton,",
+		"City": "Peterborough",
+		"State": "Cambs",
+		"PostalCode": "PE7 8QJ"
+	},
+	"ABF_Western House-": {
+		"StreetAddress": "Ground Floor Office, Block B, Western House, Business Park, Lynch Wood",
+		"City": "Peterborough",
+		"State": "Cambridgeshire",
+		"PostalCode": "PE2 6BP"
+	},
+	"ABF_Weston Cent-": {
+		"StreetAddress": "Avery Court, Western Centre, 10 Grosvenor Street",
+		"City": "London",
+		"PostalCode": "W1K 4QY"
+	},
+	"ABG_Ayr-": {
+		"StreetAddress": "SAC Nellies Gate, Auchincruive",
+		"City": "Ayr",
+		"State": "Ayrshire",
+		"PostalCode": "KA6 5AE"
+	},
+	"ABG_Bury-": {
+		"StreetAddress": "71-72 Eastern Way",
+		"City": "Bury Saint Edmunds",
+		"State": "Suffolk",
+		"PostalCode": "IP32 7AB"
+	},
+	"ABG_Cranswick-": {
+		"StreetAddress": "Frontier Agriculture, Beverley Road, Driffield",
+		"City": "Cranswick",
+		"PostalCode": "YO25 9PF"
+	},
+	"ABG_Cullompton-": {
+		"StreetAddress": "Feed Mill, Bridge Street, Uffculme",
+		"City": "Cullompton",
+		"State": "Devon",
+		"PostalCode": "EX15 3AX"
+	},
+	"ABG_Cupar-": {
+		"StreetAddress": "Damside Mill",
+		"City": "Cupar",
+		"State": "Fife",
+		"PostalCode": "KY15 5ZA"
+	},
+	"ABG_Enstone-": {
+		"StreetAddress": "Unit 16 Enstone Airfield",
+		"City": "Chipping Norton",
+		"State": "Oxfordshire",
+		"PostalCode": "OX7 4NP"
+	},
+	"ABG_Flixborough-": {
+		"StreetAddress": "Flixborough Industrial Estate",
+		"City": "Scunthorpe",
+		"State": "Lincolnshire",
+		"PostalCode": "DN15 8SB"
+	},
+	"ABG_Fradley Park-": {
+		"StreetAddress": "Unit FP29, Dove Close, Fradley Park",
+		"City": "Lichfield",
+		"PostalCode": "WS13 8SU"
+	},
+	"ABG_Fraga-": {
+		"StreetAddress": "Alternative Swine Nutrition, Calle Comunidad de Murcia, Parcela LIE-1-03, Plataforma Logistica de Fraga",
+		"City": "Huesca",
+		"PostalCode": "22520"
+	},
+	"ABG_Fridaythorpe-": {
+		"StreetAddress": "Thixendale Rd",
+		"City": "Fridaythorpe",
+		"State": "Driffield",
+		"PostalCode": "YO25 9RT"
+	},
+	"ABG_Grimsdyke-": {
+		"StreetAddress": "Grimsdyke Granaries, Coome Bissett",
+		"City": "Salisbury",
+		"State": "Wiltshire",
+		"PostalCode": "SP5 5RL"
+	},
+	"ABG_Innovation-": {
+		"StreetAddress": "Peterborough Business Park, 64 Innovation Way, Lynch Wood",
+		"City": "Peterborough",
+		"State": "Cambridgeshire",
+		"PostalCode": "PE2 6FL"
+	},
+	"ABG_Marlborough-": {
+		"StreetAddress": "3 Woodstock Court, Marlborough Business Park,",
+		"City": "Marlborough",
+		"State": "Wiltshire",
+		"PostalCode": "SN8 4AN"
+	},
+	"ABG_Melmerby-": {
+		"StreetAddress": "Green Lane, Melmerby",
+		"City": "Ripon",
+		"State": "North Yorkshire",
+		"PostalCode": "HG4 5HP"
+	},
+	"ABG_Northallerton-": {
+		"StreetAddress": "The Mill, Darlington Road",
+		"City": "Northallerton",
+		"State": "North Yorkshire",
+		"PostalCode": "DL6 2NH"
+	},
+	"ABG_Randalstown-": {
+		"StreetAddress": "211 Castle Road",
+		"City": "Randalstown",
+		"State": "Northern Ireland",
+		"PostalCode": "BT41 2EB"
+	},
+	"ABG_Rotterdam-": {
+		"StreetAddress": "AB Vista Europe B.V., Delftse Poort Building, Weena 505, (Tower A Unit 30.18, 30.20 and 30.22), 3013AL Rotterdam, Netherlands",
+		"City": "Rotterdam"
+	},
+	"ABG_Rugeley-": {
+		"StreetAddress": "Premier Nutrition, Brereton Business Park, The Levels",
+		"City": "Rugeley",
+		"State": "Staffordshire",
+		"PostalCode": "WS15 1RD"
+	},
+	"ABG_Sherburn-": {
+		"StreetAddress": "Bishopsdyke Road",
+		"City": "Sherburn in Elmet",
+		"State": "Leeds",
+		"PostalCode": "LS25 6JZ"
+	},
+	"ABG_Towcester-": {
+		"StreetAddress": "Aunir, The Dovecot, Pury Hill Business Park",
+		"City": "Towcester",
+		"State": "Northamptonshire",
+		"PostalCode": "NN12 7LS"
+	},
+	"ABG_Uffculme-": {
+		"StreetAddress": "Feed Mill, Bridge Street, Uffculme",
+		"City": "Cullompton",
+		"State": "Devon",
+		"PostalCode": "EX15 3AX"
+	},
+	"ABG_Videbaek-": {
+		"StreetAddress": "Skjernvej 42, 6920 Videbæk, Denmark",
+		"City": "Videbæk",
+		"PostalCode": "6920"
+	},
+	"ABG_Walsingham-": {
+		"StreetAddress": "Bunkers Hill, Egmere",
+		"City": "Walsingham",
+		"State": "Norfolk",
+		"PostalCode": "NR22 6BD"
+	},
+	"ABG_Ystrad-": {
+		"StreetAddress": "AB Vista, Tredomen Innovation Centre, Tredomen Business Park, Innovation \u0026 Technology Building",
+		"City": "Ystrad Mynach",
+		"State": "Hengoed",
+		"PostalCode": "CF82 7FQ"
+	},
+	"ABI_PARIS-": {
+		"StreetAddress": "11 Rue de Milan",
+		"City": "Paris",
+		"PostalCode": "75009"
+	},
+	"ABI_PETERBOROUGH-":{
+		"StreetAddress": "1 Samson Place, London Road, Hampton,",
+		"City": "Peterborough",
+		"State": "Cambs",
+		"PostalCode": "PE7 8QJ"
+	},
+	"ABM_AE_Dubai-": {
+		"StreetAddress": "AB MAURI Middle East FZE, PO Box No: 17620, JAFZA LOB 15, Office 604A, Jebel Ali Freezone",
+		"City": "Dubai"
+	},
+	"ABM_AR_BuenosAires-": {
+		"StreetAddress": "Ciudad de Buenos Aires (Regional Office), Mariscal Antonio, José de Sucre 632 – Piso 1 y 2 ",
+		"City": "Buenos Aires",
+		"PostalCode": "CP C1428DUB"
+	},
+	"ABM_AR_Lanus-": {
+		"StreetAddress": "Calsa, Av. Presidente Raúl Alfonsín 3145, Lanús Este CP (B1824JDK) ",
+		"City": "Buenos Aires",
+		"PostalCode": "B1824JDK"
+	},
+	"ABM_AR_Tucuman-": {
+		"StreetAddress": "Ruta Provincial 301 KM 2, CP 4105, El Manantial, Tucuman,",
+		"City": "Tucuman",
+		"PostalCode": "4105"
+	},
+	"ABM_BE_Merelbeke-": {
+		"StreetAddress": "Guldensporenpark 27",
+		"City": "Axxes Business Park, Block C, 3? verdieping",
+		"State": "Merelbek",
+		"PostalCode": "9820"
+	},
+	"ABM_BR_Jundiai-": {
+		"StreetAddress": "AB Brasil, R. João Batista Figueiredo, 250",
+		"City": "Jundiai",
+		"PostalCode": "13201-848"
+	},
+	"ABM_BR_SaoPaulo-": {
+		"StreetAddress": "AB Brasil Indústria e Comércio de Alimentos Ltda, Rua Cardeal Arcoverde, 1641/12º andar. Pinheiros,",
+		"City": "Sao Paulo",
+		"PostalCode": "05407-002"
+	},
+	"ABM_BR_Sorocaba-": {
+		"StreetAddress": "AB Brasil Indústria e Comércio de Alimentos Ltda., Av. Itavuvu, 4691 – Jardim São Camilo",
+		"City": "Sorocaba",
+		"PostalCode": "18078-003"
+	},
+	"ABM_CA_Calgary-": {
+		"StreetAddress": "2201 15th Street SE",
+		"City": "Calgary",
+		"State": "Alberta",
+		"PostalCode": " T2G 3M3"
+	},
+	"ABM_CA_LaSalle-": {
+		"StreetAddress": "31 Airlie Street",
+		"City": "LaSalle",
+		"State": "QC",
+		"PostalCode": "H8R 1Z8"
+	},
+	"ABM_ES_Barcelona-": {
+		"StreetAddress": "Parc de Negocis Mas Blau, Edificio AVANT",
+		"City": "Calle Selva n? 12, planta baja, m?dulo A",
+		"State": "Prat de Llobregat (Barcelona.)"
+	},
+	"ABM_ES_Cordoba-": {
+		"StreetAddress": "Levadura 5",
+		"City": "Villarrubia",
+		"State": "Cordoba",
+		"PostalCode": "14710"
+	},
+	"ABM_FR_Lyon-": {
+		"StreetAddress": "7th floor, 40, Avenue Georges Pompidou",
+		"City": "Lyon",
+		"PostalCode": "69003"
+	},
+	"ABM_GB_CentralOffice-": {
+		"StreetAddress": "Sugar Way",
+		"City": "Peterborough",
+		"PostalCode": "PE2 9AY"
+	},
+	"ABM_GB_Hull": {
+		"StreetAddress": "Stockholm Road, Sutton Fields Industrial Estate,",
+		"City": "Hull",
+		"State": "East Yorkshire",
+		"PostalCode": "HU7 0XW"
+	},
+	"ABM_GB_HULL-": {
+		"StreetAddress": "Stockholm Road, Sutton Fields Industrial Estate,",
+		"City": "Hull",
+		"State": "East Yorkshire",
+		"PostalCode": "HU7 0XW"
+	},
+	"ABM_IN_AhmedabadDepot": {
+		"StreetAddress": "6, Ujala Ave, Unit Hills Society, Rehnuma Society, Royal Nawab Society",
+		"City": "Ahmedabad",
+		"State": "Gujarat",
+		"PostalCode": "380055"
+	},
+	"ABM_IN_Bengaluru": {
+		"StreetAddress": "Plot Nos. 218 \u0026 219, Bommasandra Jigani Link Road",
+		"City": "Bengaluru",
+		"State": "Karnataka",
+		"PostalCode": "560105"
+	},
+	"ABM_IN_Chennai": {
+		"StreetAddress": "No. B-7, CMDA Truck Terminal, Madhavaram",
+		"City": "Chennai",
+		"PostalCode": "600110"
+	},
+	"ABM_IN_Chiplun": {
+		"StreetAddress": "D-7/2A, MIDC Area, Lote Parshuram, Taluka Khed",
+		"City": "Chiplun",
+		"State": "Maharashtra",
+		"PostalCode": "415722"
+	},
+	"ABM_IN_Cochin": {
+		"StreetAddress": "36/921 - A1, Vadakkakathu Building, Lisie Hospital Road",
+		"City": "Cochin",
+		"State": "Kerala",
+		"PostalCode": "682018"
+	},
+	"ABM_IN_CochinPlant": {
+		"StreetAddress": "Plot No. 24, Cochin Export Processing Zone, Kakkanad",
+		"City": "Cochin",
+		"State": "Kerala",
+		"PostalCode": "682030"
+	},
+	"ABM_IN_Hyderabad": {
+		"StreetAddress": "1st Floor, Municipal No. 10-2-233 to 238/1, Sree Rama Bhavanamu, Road No. 5, West Marredpally",
+		"City": "Hyderabad",
+		"State": "Telangana",
+		"PostalCode": "500026"
+	},
+	"ABM_IN_Kalyani": {
+		"StreetAddress": "Chandmari Moore, P.O. Gayeshpur, District: Nadia",
+		"City": "Kalyani",
+		"State": "West Bengal",
+		"PostalCode": "741234"
+	},
+	"ABM_IN_Kolkata": {
+		"StreetAddress": "Poonam Building, 8th Floor, Flat No. 8D, 5/2 Anandilal Poddar Sarani (Russel Street)",
+		"City": "Kolkata",
+		"State": "West Bengal",
+		"PostalCode": "700071"
+	},
+	"ABM_IN_Mumbai": {
+		"StreetAddress": "Unit No. 16,18 \u0026 20, Ground floor, Gundecha Onclave, Sakivihar Road, off Khairani Road, Sakinaka",
+		"City": "Mumbai",
+		"State": "Maharashtra",
+		"PostalCode": "400072"
+	},
+	"ABM_IN_NewDelhi": {
+		"StreetAddress": "706, 7th Floor, Ansal Bhavan, 16 Kg Marg",
+		"City": "New Delhi",
+		"PostalCode": "110001"
+	},
+	"ABM_IT_Casteggio": {
+		"StreetAddress": "27045 Casteggio (PV)",
+		"City": "Via Milano, 42"
+	},
+	"ABM_LK_SriLanka": {
+		"StreetAddress": "AB Mauri Lanka (Private) Limited, NO. 124, Templers Road, Mount Lavinia, Sri Lanka",
+		"City": "Mount Lavinia"
+	},
+	"ABM_MY_Balakong": {
+		"StreetAddress": "AB MAURI Malaysia Sdn. Bhd, Lot 4185, Jalan KB 1/9, Kampung Baru Balakong",
+		"City": "Balakong",
+		"State": "Selangor",
+		"PostalCode": "43300"
+	},
+	"ABM_NL_Dordrecht": {
+		"StreetAddress": "Mijlweg 77",
+		"City": "Dordrecht",
+		"PostalCode": "3316 BE"
+	},
+	"ABM_NL_EttenLeur-": {
+		"StreetAddress": "55 Oude Kerkstraat",
+		"City": "ETTEN-LEUR (NL)",
+		"PostalCode": "4878 AK"
+	},
+	"ABM_NL_Made": {
+		"StreetAddress": "Brieltjenspolder 16",
+		"City": "MADE (NL)",
+		"PostalCode": "4921 PJ"
+	},
+	"ABM_PH_MuntinlupaCity": {
+		"StreetAddress": "Carmona State",
+		"City": "Binan Laguna",
+		"State": "Philippines",
+		"PostalCode": "4024"
+	},
+	"ABM_PT_Lisbon": {
+		"StreetAddress": "Avenida Salvador Allende, 99",
+		"City": "Pa?o de Arcos",
+		"PostalCode": "2770-157"
+	},
+	"ABM_US_CedarRapids-": {
+		"StreetAddress": "1000 Wenig Rd. NE",
+		"City": "Cedar Rapids",
+		"State": "Iowa",
+		"PostalCode": "52402"
+	},
+	"ABM_US_Greenville-": {
+		"StreetAddress": "6311 Industrial Blvd., PO Box 1502",
+		"City": "Greenville",
+		"State": "TX",
+		"PostalCode": "75402"
+	},
+	"ABM_US_Memphis-": {
+		"StreetAddress": "2743 Riverport Road",
+		"City": "Memphis",
+		"State": "TN",
+		"PostalCode": "38109"
+	},
+	"ABM_US_StLouis-": {
+		"StreetAddress": "4240 Duncan Avenue, Suite 150",
+		"City": "St. Louis",
+		"State": "MO",
+		"PostalCode": "63110"
+	},
+	"ABM_US_Wilsonville-": {
+		"StreetAddress": "AB Mauri Baking Solutions, 26994 SW 95th Avenue",
+		"City": "Wilsonville",
+		"State": "OR",
+		"PostalCode": "97070"
+	},
+	"ABT_COLUMBUS-": {
+		"StreetAddress": "501 W 1st Avenue",
+		"City": "Columbus",
+		"State": "OH",
+		"PostalCode": "43215"
+	},
+	"ABT_JANESVILLE-": {
+		"StreetAddress": "1530 S Jackson Street",
+		"City": "Janesville",
+		"State": "Wisconsin",
+		"PostalCode": "53546"
+	},
+	"ABV_PLANTATION-": {
+		"StreetAddress": "150 South Pine Island Road, Suite 270",
+		"City": "Plantation",
+		"State": "Florida",
+		"PostalCode": "33324"
+	},
+	"ABV_SINGAPORE-": {
+		"StreetAddress": "25 International Business Park   609916",
+		"City": "#04-01 German Centre",
+		"PostalCode": "609916"
+	},
+	"ABW_LEIGH-": {
+		"StreetAddress": "Kiribati Way",
+		"City": "Leigh",
+		"PostalCode": "WN7 5RS"
+	},
+	"ABW_Maidenhead-": {
+		"StreetAddress": "1 Vanwall Place, Vanwall Business Park, Vanwall Road",
+		"City": "Maidenhead",
+		"State": "Berkshire",
+		"PostalCode": "SL6 4UF"
+	},
+	"ABW_NOWA SOL-": {
+		"StreetAddress": "Przemyslowa 2",
+		"City": "Nowa Sol",
+		"State": "Lubuskie",
+		"PostalCode": "67-100"
+	},
+	"ABW_THAILAND-": {
+		"StreetAddress": "1 Empire Tower, Park Wing, 24th Floor, Unit 2412-2413, South Sathorn Road, Yannawa, Sathorn",
+		"City": "Bangkok",
+		"PostalCode": "10120"
+	},
+	"ABW_TORONTO-": {
+		"StreetAddress": "AB World Foods Americas, 4th Floor, Suite 402, 251 Consumers Road",
+		"City": "Toronto",
+		"State": "Ontario",
+		"PostalCode": "M2J 4R3"
+	},
+	"ABW_WARSAW-": {
+		"StreetAddress": "2, Przemysłowa, 00-450 Warszawa",
+		"City": "Warsaw",
+		"State": "Mazowieckie",
+		"PostalCode": "04-767"
+	},
+	"ACH_Canada-": {
+		"StreetAddress": "30 Eglinton Avenue W Suite 300",
+		"City": "Mississauga",
+		"State": "Ontario",
+		"PostalCode": "L5R 3E7"
+	},
+	"ACH_MX_GUADALAJARA-": {
+		"StreetAddress": "Calz. Lázaro Cárdenas 2148",
+		"City": "Ferrocarril",
+		"State": "Guadalajara",
+		"PostalCode": "44440 "
+	},
+	"ACH_MX_MEXICO-": {
+		"StreetAddress": "Av. Ricardo Margain Zozaya 575",
+		"City": "Corporativo Santa Engracia 2o Sector",
+		"State": "San Pedro Garza García",
+		"PostalCode": "66267"
+	},
+	"ACH_Oakbrook-": {
+		"StreetAddress": "ACH Food Companies Inc. One Parkview Plaza, Suite 500, Oakbrook Terrace",
+		"City": "Summit Argo",
+		"State": "IL",
+		"PostalCode": "60181"
+	},
+	"ACH_Summit_Argo-": {
+		"StreetAddress": "ACH Food Companies Inc. One Parkview Plaza, Suite 500, Oakbrook Terrace",
+		"City": "Summit Argo",
+		"State": "IL",
+		"PostalCode": "60181"
+	},
+	"ALM_Coronet-": {
+		"StreetAddress": "Coronet Mill, 1 Coronet Way",
+		"City": "Salford",
+		"PostalCode": "M50 1RE"
+	},
+	"ALM_James Neill-": {
+		"StreetAddress": "1 College Place North",
+		"City": "Belfast",
+		"State": "Northern Ireland",
+		"PostalCode": "BT1 6BG"
+	},
+	"ALM_Tilbury-": {
+		"StreetAddress": "Allied Mills, Port of Tilbury",
+		"State": "Essex",
+		"PostalCode": "RM18 7JR"
+	},
+	"BSU_ABSugar-": {
+		"StreetAddress": "1 Samson Place, London Road, Hampton,",
+		"City": "Peterborough",
+		"State": "Cambs",
+		"PostalCode": "PE7 8QJ"
+	},
+	"BSU_Bardney-": {
+		"StreetAddress": " PO Box 54, Bardney",
+		"City": "LINCOLN",
+		"State": "Lincolnshire",
+		"PostalCode": "LN3 5UH"
+	},
+	"BSU_BPC-": {
+		"StreetAddress": "Hollow Road",
+		"City": "Bury Saint Edmunds",
+		"PostalCode": "IP32 7BB"
+	},
+	"BSU_Bury-": {
+		"StreetAddress": "Hollow Road",
+		"City": "Bury Saint Edmunds",
+		"PostalCode": "IP32 7BB"
+	},
+	"BSU_Cantley-": {
+		"StreetAddress": "Cantley Sugar Factory",
+		"City": "Norwich",
+		"PostalCode": "NR13 3ST"
+	},
+	"BSU_Head Office-": {
+		"StreetAddress": "1 Samson Place, London Road, Hampton,",
+		"City": "Peterborough",
+		"State": "Cambs",
+		"PostalCode": "PE7 8QJ"
+	},
+	"BSU_Newark-": {
+		"StreetAddress": "Newark Sugar Factory",
+		"City": "Newark",
+		"PostalCode": "NG24 1DL"
+	},
+	"BSU_Riverside Glasshouse-": {
+		"StreetAddress": "Wissington Sugar Factory, College Road",
+		"City": "Wisisngton",
+		"State": "Kings Lynn",
+		"PostalCode": "PE33 9QG"
+	},
+	"BSU_Samson Place-": {
+		"StreetAddress": "1 Samson Place, London Road, Hampton,",
+		"City": "Peterborough",
+		"State": "Cambs",
+		"PostalCode": "PE7 8QJ"
+	},
+	"BSU_Wissington-": {
+		"StreetAddress": "Wissington Sugar Factory, College Road",
+		"City": "Wisisngton",
+		"State": "Kings Lynn",
+		"PostalCode": "PE33 9QG"
+	},
+	"CFM_GB_ACE": {
+		"StreetAddress": "AB Mauri UK \u0026 Ireland, Brunel Road, Earlstrees Industrial Estate",
+		"City": "Corby",
+		"State": "Northamptonshire",
+		"PostalCode": "NN17 4SL"
+	},
+	"CFM_GB_CORBY": {
+		"StreetAddress": "Brunel Road, Earlstrees Industrial Estate",
+		"City": "Corby",
+		"State": "Northamptonshire",
+		"PostalCode": "NN17 4SL"
+	},
+	"CFM_GB_EDINBURGH": {
+		"StreetAddress": "Fleming Howden, Unit 2, Edinburgh Distribution Park, Newbridge",
+		"City": "Edinburgh",
+		"PostalCode": "EH28 8PJ"
+	},
+	"CFM_GB_GAINSBOROUGH": {
+		"StreetAddress": "AB Mauri UK \u0026 Ireland, Paddock Maltings, Bridge Street",
+		"City": "Gainsborough",
+		"State": "Lincolnshire",
+		"PostalCode": "DN21 1LN"
+	},
+	"CFM_GB_NORTHAMPTON": {
+		"StreetAddress": "Barn Way, Lodge Farm Industrial Estate",
+		"City": "Northampton",
+		"State": "Northamptonshire",
+		"PostalCode": "NN5 7UW"
+	},
+	"CFM_GB_ROYSTON": {
+		"StreetAddress": "The Mill, Kneesworth Street",
+		"City": "Royston",
+		"State": "Hertfordshire",
+		"PostalCode": "SG8 5AH"
+	},
+	"China-": {
+		"StreetAddress": "Shanghai Ab Foods \u0026 Beverages Ltd, 8 Lancun Road, Minhang District",
+		"City": "Shanghai"
+	},
+	"GER_Aalten General-": {
+		"StreetAddress": "Dinxperlosestraatweg, 122,",
+		"City": "Aalten",
+		"PostalCode": "7122 JS"
+	},
+	"GER_Aalten OPSTemp-": {
+		"StreetAddress": "Dinxperlosestraatweg, 122,",
+		"City": "Aalten",
+		"PostalCode": "7122 JS"
+	},
+	"GER_Aalten QATemp-": {
+		"StreetAddress": "Dinxperlosestraatweg, 122,",
+		"City": "Aalten",
+		"PostalCode": "7122 JS"
+	},
+	"GER_Aalten SupCTemp-": {
+		"StreetAddress": "Dinxperlosestraatweg, 122,",
+		"City": "Aalten",
+		"PostalCode": "7122 JS"
+	},
+	"GER_CASTELOLLI GENERAL-": {
+		"StreetAddress": "Av. Virgen de Montserrat",
+		"City": "Castelloli",
+		"State": "Barcelona",
+		"PostalCode": "44, 08719"
+	},
+	"GER_ENKHUIZEN GENERAL-": {
+		"StreetAddress": "De Star, 18",
+		"City": "Enkhuizen",
+		"PostalCode": "1601 MH"
+	},
+	"GER_FARGO GENERAL-": {
+		"StreetAddress": "3011 39th Street SW",
+		"City": "Fargo",
+		"State": "North Dakota",
+		"PostalCode": "58104"
+	},
+	"GER_GILROY GENERAL-": {
+		"StreetAddress": "8333 Swanston Lane",
+		"City": "Gilroy",
+		"State": "California",
+		"PostalCode": "95020"
+	},
+	"GER_KINGSLYNN GENERAL-": {
+		"StreetAddress": "Hansa Road, Hardwick Ind Est.",
+		"City": "Norfolk",
+		"State": "King\u0027s Lynn",
+		"PostalCode": "PE30 4LG"
+	},
+	"GER_KINGSLYNN SEASONAL-": {
+		"StreetAddress": "Hansa Road, Hardwick Ind Est.",
+		"City": "Norfolk",
+		"State": "King\u0027s Lynn",
+		"PostalCode": "PE30 4LG"
+	},
+	"GRO_Kings Hill-": {
+		"StreetAddress": "2 Kings Hill Avenue, Kings Hill",
+		"City": "West Malling",
+		"PostalCode": "ME19 4AQ"
+	},
+	"HOME OFFICE (ABMNA)-": {
+		"StreetAddress": "4240 Duncan Ave. Suite. 150.",
+		"City": "St. Louis",
+		"State": "Missouri",
+		"PostalCode": "63110"
+	},
+	"JRY_BARDNEY-": {
+		"StreetAddress": "Station Road, Bardney",
+		"City": "Lincoln",
+		"PostalCode": "LN3 5UF"
+	},
+	"JRY_BIGGLESWADE-": {
+		"StreetAddress": "Market Garden Road",
+		"City": "Biggleswade",
+		"State": "Bedfordshire",
+		"PostalCode": "SG18 8QB"
+	},
+	"JRY_POOLE-": {
+		"StreetAddress": "Old Wareham Road",
+		"City": "Poole",
+		"State": "Dorset",
+		"PostalCode": "BH12 4QW"
+	},
+	"OHLY_BOYCEVILLE-": {
+		"StreetAddress": "1258 Nelson Dr",
+		"City": "Boyceville",
+		"State": "Wisconsin",
+		"PostalCode": "54725"
+	},
+	"OHLY_HAMBURG-": {
+		"StreetAddress": "Wandsbeker Zollstraße 59, 22041 Hamburg, Germany",
+		"City": "Hamburg",
+		"PostalCode": "22041"
+	},
+	"PGPI_EVANSVILLE-": {
+		"StreetAddress": "5404 Foundation Drive",
+		"City": "Evansville",
+		"State": "Indiana",
+		"PostalCode": "47725"
+	},
+	"PGPI_Woodland-": {
+		"StreetAddress": "351 Hanson Way, 95776, Woodland, California",
+		"City": "Woodland",
+		"State": "California",
+		"PostalCode": "95776"
+	},
+	"PGPI-Evansville-": {
+		"StreetAddress": "5404 Foundation Drive, 47725 Evansville, Indiana",
+		"State": "Indiana",
+		"PostalCode": "47725"
+	},
+	"SBA_Bradford-": {
+		"StreetAddress": "6 Cross Lane",
+		"City": "Birkenshaw",
+		"State": "Bradford",
+		"PostalCode": "BD4 0SG"
+	},
+	"SBA_Wakefield-": {
+		"StreetAddress": "Speedibake",
+		"City": "Colinsway",
+		"State": "Wakefield",
+		"PostalCode": "WF2 9RJ"
+	},
+	"SIL_Allinsons-": {
+		"StreetAddress": "10 Dane Street",
+		"City": "Bishop\u0027s Stortford",
+		"State": "Hertfordshire",
+		"PostalCode": "CM23 3BX"
+	},
+	"SIL_Bardney-": {
+		"StreetAddress": "Silver Spoon",
+		"City": "Bardney",
+		"State": "Lincolnshire",
+		"PostalCode": "LN3 5UQ"
+	},
+	"SIL_Western House-": {
+		"StreetAddress": "Ground Floor Office, Block B, Western House, Business Park, Lynch Wood",
+		"City": "Peterborough",
+		"State": "Cambridgeshire",
+		"PostalCode": "PE2 6BP"
+	},
+	"SPI_BANGALORE-": {
+		"StreetAddress": "21 B, Veerasandra Industrial Area, Hosur Road",
+		"City": "Bangalore",
+		"State": "Karnataka",
+		"PostalCode": "560100"
+	},
+	"SPI_Grand Haven-": {
+		"StreetAddress": "1711 Tiles Court",
+		"City": "Grand Haven",
+		"State": "Michigna",
+		"PostalCode": "49417"
+	},
+	"SPI_Lewes-": {
+		"StreetAddress": "40 Cape Henlopen Drive",
+		"City": "Lewes",
+		"State": "Delaware",
+		"PostalCode": "19958-1168"
+	},
+	"SPI_NEW CASTLE-": {
+		"StreetAddress": "321 Cherry Lane",
+		"City": "New Castle",
+		"State": "Delaware",
+		"PostalCode": "19720"
+	},
+	"SPI_SEAFORD-": {
+		"StreetAddress": "1800 Dulaney St",
+		"City": "Seaford",
+		"State": "Delaware",
+		"PostalCode": "19973"
+	},
+	"SPI_Septemes-": {
+		"StreetAddress": "845 Chemin du Vallon du Maire, 13240 Septemes",
+		"City": "Les Vallons",
+		"PostalCode": "13240"
+	},
+	"SPI_Sydney-": {
+		"StreetAddress": "Anzchem, 1 Braidwood Street, Strathfield South",
+		"State": "New South Wales",
+		"PostalCode": "2136"
+	},
+	"SPI_Wilmington-": {
+		"StreetAddress": "503 Carr Road, Suite 210",
+		"City": "Wilmington",
+		"State": "Delaware",
+		"PostalCode": "19809"
+	},
+	"SSCLABA_LAB":
+    {
+        "StreetAddress": "SSCLABA, Test Environment",
+        "City":  "Peterborough",
+        "State":  "Cambridgeshireare ",
+        "PostalCode":  "PE2 6FZ"
+    },
+	"SSC_INNOVATION WAY-": {
+		"StreetAddress": "Peterborough Business Park, 64 Innovation Way, Lynch Wood",
+		"City": "Peterborough",
+		"State": "Cambridgeshire",
+		"PostalCode": "PE2 6FL"
+	},
+	"TWO_FBE_ANTWERP-": {
+		"StreetAddress": "Marialei, 2018",
+		"City": "Antwerpen"
+	},
+	"TWO_FI_LEVALLOIS-": {
+		"StreetAddress": "25 Rue Anatole France",
+		"City": "Levallois-Perret",
+		"PostalCode": "92300"
+	},
+	"TWO_MSK_MALLUSK-": {   
+		"StreetAddress": "15 Trench Rd",
+		"City": "Newtownabbey",
+		"PostalCode": "BT36 4TY"
+	},
+	"TWO_OAM_MELBOURNE-": {
+		"StreetAddress": "Twinings Australia, 35-37 S Corporate Ave, Rowville",
+		"City": "Melbourne",
+		"State": "Victoria",
+		"PostalCode": "3178"
+	},
+	"TWO_TAN_ANDOVER-": {
+		"StreetAddress": "South Way, Walworth Industrial Estate",
+		"City": "Andover",
+		"State": "Hampshire",
+		"PostalCode": "SP10 5AQ"
+	},
+	"TWO_TPI_KOLKATA-": {
+		"StreetAddress": "Twinings Pvt Ltd, 3 41, Budge Budge Trunk Road, Nandanpur, Budge Budge",
+		"City": "Kolkata",
+		"State": "West Bengal",
+		"PostalCode": "700141"
+	},
+	"TWO_TPP_POZNAN-": {
+		"StreetAddress": "Rabowicka 29/31",
+		"City": "Swarzedz",
+		"State": "Wielkopolska",
+		"PostalCode": "62-020"
+	},
+	"TWO_WNG_FRANKFURT-": {
+		"StreetAddress": "Westendstrasse 28",
+		"City": "Frankfurt am Main",
+		"PostalCode": "60325"
+	},
+	"TWO_WNG_NEUENEGG-": {
+		"StreetAddress": "Fabrikstrasse 10",
+		"City": "Neuenegg",
+		"PostalCode": "3176"
+	},
+	"WMI_UK_ENFIELD-": {
+		"StreetAddress": "26 Crown Road",
+		"City": "Enfield",
+		"State": "Middlesex",
+		"PostalCode": "EN1 1DZ"
+	},
+	"WMI_UK_EUROPE-": {
+		"StreetAddress": "Westmill Foods Europe B.V., Regus Campus, Dalsteindreef 141, Diemen, 1112XJ",
+		"City": "Diemen",
+		"PostalCode": "1112XJ"
+	},
+	"WMI_UK_OLDHAM-": {
+		"StreetAddress": "Moorhey Place, Moorhey Street",
+		"City": "Oldham",
+		"PostalCode": "OL4 1JE"
+	},
+	"WMI_UK_SELBY-": {
+		"StreetAddress": "The Quay",
+		"City": "Selby",
+		"State": "North Yorkshire",
+		"PostalCode": "YO8, 4EG"
+	},
+	"WMI_UK_TRAFFORD-": {
+		"StreetAddress": "2 Main Avenue, Trafford Park",
+		"City": "Manchester",
+		"PostalCode": "M17 1FD"
+	}
+}

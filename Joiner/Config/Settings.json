@@ -1,0 +1,32 @@
+{
+	"ResolverGroups":
+	{
+		"AutomationTeam": "SSC Automation",
+		"Ops": "SSC OPS ALERTS",
+		"IAM": "SSC IAM",
+		"LicenceTeam": "SSC LICENSE ADMIN"
+	},
+	"ResolverGroupsEmail": 
+	{
+        "IAM": "IAMSeniors@abfoods.com"
+    },
+	"Generic":
+	{
+		"AffectedUserShortCode": "SSCAUTOMATIONSERVICE",
+		"SmtpServer": "smtp.bsg.local",
+		"FallbackEmail": ["kelvin.andrew@abfoods.com","matthew.bloomfield@abfoods.com"],
+		"Summary": "NotSet"
+	},
+	"EmailAzAppReg":
+	{
+        "TenantId": "39c5be5d-2510-4eee-9ca0-197a6e89e482",
+        "ClientId": "60fd79c9-dc0a-4802-84d8-50c9d036eee9",
+        "CertificatePath": "CERT:\\LocalMachine\\My",
+        "Thumbprint": "3106E26431EC64845DE3F988EECF9C442343381D",
+        "AppEmailAddress": "automationservice@abfoods.com"
+	},
+	"LicenceRequests":
+	{
+		"RequestPath": "D:\\Automation\\NewStarter\\LicenceRequests"
+	}
+}

@@ -1,0 +1,167 @@
+{
+"Global":[{
+		"BusinessUnitShortCode":"SSC",
+		"MailboxEnvironment": "Exchange2016",
+		"Groups":[
+		  {"Name":"GLO-ABF-SEC-SSC-RODC_Allow_Pass_Rep"},
+		  {"Name":"GLO-ABF-SEC-SSC-ADFS_SKILLSOFT"},
+		  {"Name":"GLO-ABF-SEC-ABF-NWS-Z_BSG.LOCAL_SSC@GB@SSC1"},
+		  {"Name":"GLO-ABF-SEC-SSC-PXGBSSC1FIL003-Shrd-ITSSCPMO-RXWD"},
+		  {"Name":"GLO-ABF-SEC-SSC-PXGBSSC1FIL003-Shrd-ITSSCRiskRegister-RXWD"},
+		  {"Name":"GLO-ABF-SEC-SSC-PXGBSSC1FIL003-Shrd-ITSSCOperations-RXWD"},
+		  {"Name":"GLO-ABF-SEC-SSC-PXGBSSC1FIL003-Shrd-ITSSCProblemMgmt-RXWD"},
+		  {"Name":"GLO-ABF-SEC-SSC-PXGBSSC1FIL003-Shrd-SSC_SSCScrSvr-RX"},
+		  {"Name":"GLO-ABF-SEC-SSC-PXGBSSC1FIL003-Shrd-SSC_SSCScrSvr_UAT-RX"},
+		  {"Name":"GLO-ABF-SEC-SSC-PXGBSSC1FIL003-Shrd-ITSSCServiceAssur-RXWD"},
+		  {"Name":"GLO-ABF-SEC-SSC-PXGBSSC1FIL003-Shrd-ITSSCNetworks-RXWD"},
+		  {"Name":"GLO-ABF-SEC-SSC-PXGBSSC1FIL003-Shrd-ITSSCServiceDesk-RXWD"},
+		  {"Name":"GLO-ABF-SEC-SSC-PXGBSSC1FIL003-Shrd-ITSSCServiceTrans-RXWD"},
+		  {"Name":"GLO-ABF-SEC-SSC-PXGBSSC1FIL003-Shrd-ITSSCInfra-RXWD"},
+		  {"Name":"GLO-ABF-SEC-SSC-PXGBSSC1FIL003-Shrd-ITSSCArchitecture-RXWD"},
+		  {"Name":"GLO-ABF-SEC-SSC-PXGBSSC1FIL003-Shrd-AllITSSC-RX"},
+		  {"Name":"GLO-ABF-SEC-ABF-FGPP-SSC_User_Accounts"},
+		  {"Name":"GLO-ABF-SEC-SSC-MOSS_SSC_Security_Governance_Readers"},
+		  {"Name":"GLO-ABF-SEC-SSC-MOSS_SSC_KNOWLEDGE_CONTRIBUTORS"},
+		  {"Name":"GLO-ABF-SEC-ABF-TOP_None"},
+		  {"Name":"Diane_TestODBnewsyndeploy"},
+		  {"Name":"GLO-ABF-SEC-ABF-Generic_SharedMailbox_Config_W10"},
+		  {"Name":"GLO-ABF-SEC-SSC-InactiveAccountCheck"},
+		  {"Name":"GLO-ABF-SEC-SSC-ZSCALER_PRIVILEGED"},
+		  {"Name":"GLO-ABF-SEC-SSC-Park House Users"},
+		  {"Name":"GLO-ABF-SEC-ABF-IT_ReduceLockdown_Users"},
+		  {"Name":"GLO-ABF-SEC-ABF-Remote_Assistance_Permitted"},
+		  {"Name":"UG_CO-Users"},
+		  {"Name":"GLO-ABF-SEC-ABF-MOSS_Migration_Readers"},
+		  {"Name":"GLO-ABF-SEC-ABF-SCCM_Remote_Control_Permitted_Viewers"},
+		  {"Name":"UG_SSC"}
+		],
+		"MailEnabledGroups":[
+		  {"Name":"GLO-ABF-SEC-ABF-SuccessFactorsSSO"},
+		  {"Name":"UNI-ABF-SEC-SSC-O365-E3_License"},
+		  {"Name":"GLO-ABF-SEC-SSC-O365-AllCloudApps_MFA"},
+		  {"Name":"UNI-ABF-DIST-SSC Staff"},
+		  {"Name":"UNI-ABF-DIST-SSC-Park_House_Users"},
+		  {"Name":"All-AB Foods"}
+		],
+		"OU":"OU=Users,OU=SSC-SSC,DC=BSG,DC=LOCAL",
+		"Attributes":[
+		  {
+		    "Name":"extensionAttribute1",
+			"Value":"abfuser"
+		  },
+		  {
+		    "Name":"extensionAttribute11",
+		    "Value":"SSC"
+		  },
+		  {
+			"Name":"ScriptPath",
+			"Value":"sscloginus.bat"		  
+		  }
+		]
+}],
+
+"Sites":[
+	{
+		"Name":"SSC_Park House",
+		"Group":[
+			{"Name":"UNI-ABF-DIST-SSC-Park_House_Users"},
+			{"Name":"GLO-ABF-SEC-SSC-Park House Users"}
+		],
+		"Attributes":[
+		  {
+		    "Name":"Country",
+		    "Value":"United Kingdom"
+	      },
+		  {
+		    "Name":"ScriptPath",
+		    "Value":"sscloginSite.bat"
+	      }
+        ]
+	},
+	{
+		"Name":"Remote",
+		"Group":[],
+		"Attributes":[
+		  {
+		    "Name":"Office",
+		    "Value":"Remote"
+	          }
+        ]
+	}
+],
+
+"Department":[
+	{
+		"Name":"DC Operations",
+		"Sites":[
+			{"Name":"SSC_Park House-"},
+			{"Name":"Remote"}		
+		],
+		"Group":[
+			{"Name":"GLO-ABF-SEC-SSC-CV_EXCH_ARCHIVE"},
+			{"Name":"GLO-ABF-SEC-ABF-W10-Proofpoint-GPO-Test"},
+			{"Name":"GLO-ABF-SEC-SSC-PXGBSSC1OPS003-PL RXWD"},
+			{"Name":"GLO-ABF-SEC-ALL-NETSCALER_VPN_CORP"},
+			{"Name":"GLO-ABF-SEC-SSC-PXGBSSC1SYS002-Build Review RXWD"},
+			{"Name":"GLO-ABF-SEC-SSC-PASSWORDMANAGER_INFRASTRUCTURE"},
+			{"Name":"UNI-ABF-SEC-SSC-RMG-SSC Resource Mail Test-FULL"},
+			{"Name":"GLO-ABF-SEC-SSC-MOSS_SSCINFRAOPS_CONTRIBUTORS"},
+			{"Name":"GLO-ABF-SEC-SSC-CV_XMB_ARCHIVE"},
+			{"Name":"GLO-ABF-SEC-SSC-COURION_ADMIN"},
+			{"Name":"GLO-ABF-SEC-ABG-MOSS_CRF_Reader"},
+			{"Name":"GLO-ABF-SEC-ABF-Identification RXWD"},
+			{"Name":"GLO-ABF-SEC-SSC-PRT_ICA_LOCAL_DEFAULT_ONLY"},
+			{"Name":"GLO-ABF-SEC-ABF-MOSS_SSC_ServiceDesk_Contributors"},
+			{"Name":"GLO-ABF-SEC-ABF-Courion_Send_Invite"},
+			{"Name":"GLO-ABF-SEC-ABF-MOSS_SSC_Infrastructure_Support_Contributors"},
+			{"Name":"GLO-ABF-SEC-ABF-SCCM_WS_Deployment"},
+			{"Name":"GLO-ABF-SEC-ABF-MOSS_Migration_Contributors"},
+			{"Name":"GLO-ABF-SEC-ABF-Courion_Account_Unlock"},
+			{"Name":"GLO-ABF-SEC-ABF-Assyst_Users"}
+		],
+		"MailEnabledGroups":[
+			{"Name":"UNI-ABF-DIST-SSC-ABFParkHouse"},
+			{"Name":"UNI-ABF-DIST-SSC-Office365TechContacts"},
+			{"Name":"ABF-SSC-AssystUsers"}
+		],
+		"Attributes":[
+		  {
+		    "Name":"extensionAttribute11",
+		    "Value":"DCOps"
+	      }
+		]
+	},
+	{
+		"Name":"Service Desk",
+		"Sites":[
+			{"Name":"ParkHouse"}		
+		],
+		"Group":[
+			{"Name":"GLO-ABF-SEC-ABF-Courion_Account_Unlock"},
+			{"Name":"GLO-ABF-SEC-ABF-Courion_Send_Invite"},
+			{"Name":"GLO-ABF-SEC-ABF-MOSS_SSC_ServiceDesk_Contributors"},
+			{"Name":"GLO-ABF-SEC-ABF-PXGBSSC1ACC001-EmailAttachments"},
+			{"Name":"GLO-ABF-SEC-ABF-Remote_Assistance_Permitted"},
+			{"Name":"GLO-ABF-SEC-ABF-SCCM_Remote_Control_Permitted_Viewers"},
+			{"Name":"GLO-ABF-SEC-ABF-SSC_Service_Desk"},
+			{"Name":"GLO-ABF-SEC-SBA-STERM-USERS"},
+			{"Name":"GLO-ABF-SEC-SSC-AbfSscIdb-ReadOnlyAllBusinessUnits"},
+			{"Name":"GLO-ABF-SEC-SSC-AEROHIVE_GUESTWIRELESS"},
+			{"Name":"GLO-ABF-SEC-SSC-COURION_ADMIN"},
+			{"Name":"GLO-ABF-SEC-SSC-MOSS_SSC_Service Desk Whiteboard Email"},
+			{"Name":"GLO-ABF-SEC-SSC-PXGBSSC1FIL003-Shrd-ITSSCEvergreen RX"},
+			{"Name":"GLO-ABF-SEC-SSC-PXGBSSC1FIL003-Shrd-ITSSCServiceDesk-Rota RX"},
+			{"Name":"SSC Service Desk"},
+			{"Name":"UNI-ABF-DIST-SSC-SSC Triage Team"},
+			{"Name":"UNI-ABF-SEC-ABF-PPTRAINING_Provisioning"},
+			{"Name":"UNI-ABF-SEC-ABF-PPTRAINING_SSC"},
+			{"Name":"UNI-ABF-SEC-SSC-MSFB-BuStoreDefaultApplications"},
+			{"Name":"UNI-ABF-SEC-SSC-QUARANTINE_REPORT"},
+			{"Name":"UNI-ABF-SEC-SSC-RMG-Identity and Access Management (Mailbox)"},
+			{"Name":"UNI-ABF-SEC-SSC-RMG-SSC Servicedesk (Mailbox)"},
+			{"Name":"UNI-ABF-SEC-SSC-SHO-HubVisitors"},
+			{"Name":"GLO-ABF-SEC-ABF-Assyst_Users"}
+		]
+	}
+]
+}

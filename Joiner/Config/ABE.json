@@ -1,0 +1,337 @@
+{
+"Global":[{
+		"BusinessUnitShortCode":"ABE",
+		"MailboxEnvironment": "Exchange2016",
+		"Groups":[
+			{"Name": "GLO-ABF-SEC-ABE-O365-AllCloudApps_MFA"},
+			{"Name": "GLO-ABF-SEC-ALL-ATT_Client_VPN-AzureMFA"},
+			{"Name": "UNI-ABF-DIST-ABE-ABEnzymes-and-Roal-Everyone"},
+			{"Name": "GLO-ABF-SEC-ABI-RODC_Allow_Pass_Rep"},
+			{"Name": "UNI-ABF-SEC-ABE-SHO-HubVisitors"},
+			{"Name": "GLO-ABF-SEC-ABF-NWS-V_BSG_ABFi@ABE@DE@DAR1@DE Depts"},
+			{"Name": "UNI-ABF-SEC-ABE-MSFB-BuStoreDefaultApplications"},
+			{"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Programs RX"},
+			{"Name": "GLO-ABF-SEC-ABF-NWS-P_BSG_ABFi@ABE@FI@RAJ1@Programs"},
+			{"Name": "GLO-ABF-SEC-ABEZ-ZSCALER_MANDATORY"},
+			{"Name": "GLO-ABF-SEC-ABF-FGPP-ABFI_User_Accounts"}
+		],
+		"MailEnabledGroups":[],
+		"OU":"OU=ABEnzymes,OU=BU,OU=Users,OU=SSC-ABFI,DC=bsg,DC=LOCAL",
+		"Attributes":[
+		  {
+		    "Name":"extensionAttribute1",
+			"Value":"ABEUSER"
+		  },
+		  {
+			"Name":"ScriptPath",
+			"Value":"SSCLogin2.bat"		  
+		  }
+		]
+}],
+
+"Sites":[
+	{
+		"Name":"ABE_ABEZ_Darmstadt",
+		"Group":[
+            {"Name": "UNI-ABF-SEC-ABE-O365-E3_License"},
+            {"Name": "UNI-ABF-SEC-ABF-PPTRAINING_ABE"},
+            {"Name": "UNI-ABF-SEC-ABF-PPTRAINING_Provisioning"},
+            {"Name": "GLO-ABF-SEC-ABE-ADFS_CONCUR"},
+            {"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Dept-Tuotannonkeh-RXWD"},
+            {"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Dept-Public-RXWD"},
+            {"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Dept-Yleiset_tied-RXWD"},
+            {"Name": "GLO-ABF-SEC-ABE-PFDEDAR1FIL001-Dept-Public-RXWD"},
+            {"Name": "GLO-ABF-SEC-ABE-PFDEDAR1FIL001-Dept-Transfer-RXWD"},
+            {"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Dept-Roal-RXWD"},
+            {"Name": "GLO-ABF-SEC-ABF-XAP-NWS-V_BSG_ABFi@ABE@DE@DAR1@DE Depts"},
+            {"Name": "GLO-ABF-SEC-ABE-Domain Users"},
+            {"Name": "UNI-ABF-DIST-ABE-ABEnzymes-Germany"}    
+        ],
+		"Attributes":[
+		  {
+		    "Name":"Country",
+		    "Value":"Germany"
+	      },
+		  {
+		    "Name":"ScriptPath",
+		    "Value":"SSCLogin2.bat"
+	      }
+        ]
+	},
+    {
+		"Name":"ABE_ABEZ_Rajamaki",
+		"Group":[
+            {"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Programs-Ohjelmat RXWD"},
+            {"Name": "GLO-ABF-SEC-ABE-Roal_LIMS"},
+            {"Name": "GLO-ABF-SEC-ABE-Domain Users Roal"},
+            {"Name": "UNI-ABF-DIST-ABE-FI-Everyone"}
+        ],
+		"Attributes":[
+		  {
+		    "Name":"Country",
+		    "Value":"Finland"
+	      },
+          {
+		    "Name":"extensionAttribute1",
+		    "Value":"ROAUSER"
+	      },
+		  {
+		    "Name":"ScriptPath",
+		    "Value":"SSCLogin2.bat"
+	      }
+        ]
+	},
+    {
+		"Name":"ABE_ABEZ_Plantation",
+		"Group":[
+            {"Name": "UNI-ABF-SEC-ABE-O365-E3_License"},
+            {"Name": "GLO-ABF-SEC-ABE-ADFS_CONCUR"},
+            {"Name": "GLO-ABF-SEC-ABE-PFDEDAR1FIL001-Dept-Public-RXWD"},
+            {"Name": "GLO-ABF-SEC-ABE-PFDEDAR1FIL001-Dept-Transfer-RXWD"},
+            {"Name": "GLO-ABF-SEC-ABE-PFDEDAR1FIL001-Dept-Miami-RXWD"},
+            {"Name": "GLO-ABF-SEC-ABF-XAP-NWS-V_BSG_ABFi@ABE@DE@DAR1@DE Depts"},
+            {"Name": "GLO-ABF-SEC-ABE-Domain Users"}
+        ],
+		"Attributes":[
+		  {
+		    "Name":"Country",
+		    "Value":"United States"
+	      },
+		  {
+		    "Name":"ScriptPath",
+		    "Value":"SSCLogin2.bat"
+	      }
+        ]
+	},
+    {
+		"Name":"ABE_ABEZ_Singapore",
+		"Group":[
+            {"Name": "UNI-ABF-SEC-ABE-O365-E3_License"},
+            {"Name": "UNI-ABF-SEC-ABF-PPTRAINING_ABE"},
+            {"Name": "UNI-ABF-SEC-ABF-PPTRAINING_Provisioning"},
+            {"Name": "GLO-ABF-SEC-ABE-ADFS_CONCUR"},
+            {"Name": "GLO-ABF-SEC-ABE-PFSGSIN2FIL002-Dept-Scanner-RXWD"},
+            {"Name": "GLO-ABF-SEC-ABE-PFSGSIN2FIL002-Dept-ABES - All-RXWD"},
+            {"Name": "GLO-ABF-SEC-ABE-PFDEDAR1FIL001-Dept-Public-RXWD"},
+            {"Name": "GLO-ABF-SEC-ABE-PFDEDAR1FIL001-Dept-Transfer-RXWD"},
+            {"Name": "GLO-ABF-SEC-ABE-PFDEDAR1FIL001-Dept-SGCommon-RXWD"},
+            {"Name": "DLG-ABF-SEC-ABE-ABDAFILESRV01-Public-RW"},
+            {"Name": "GLO-ABF-SEC-ABF-XAP-NWS-V_BSG_ABFi@ABE@DE@DAR1@DE Depts"},
+            {"Name": "GLO-ABF-SEC-ABF-NWS-J_BSG_ABFi@ABE@SG@SIN2@SG Depts"},
+            {"Name": "GLO-ABF-SEC-ABE-Domain Users"},
+            {"Name": "DLG-ABF-SEC-ABE-ABDAFILESRV01-Transfer-RW"},
+            {"Name": "GLO-ROE-SEC-ABES-Departments-All"},
+            {"Name": "GLO-ROE-SEC-ABES-Departments"},
+            {"Name": "GLO-ABF-SEC-ABI-InactiveAccountCheck"}
+        ],
+		"Attributes":[
+		  {
+		    "Name":"Country",
+		    "Value":"Singapore"
+	      },
+		  {
+		    "Name":"ScriptPath",
+		    "Value":"SSCLogin2.bat"
+	      }
+        ]
+	},
+    {
+		"Name":"ABE_ABEZ_Barueri",
+		"Group":[
+            {"Name": "UNI-ABF-SEC-ABE-O365-E3_License"},
+            {"Name": "UNI-ABF-SEC-ABF-PPTRAINING_ABE"},
+            {"Name": "UNI-ABF-SEC-ABF-PPTRAINING_Provisioning"},
+            {"Name": "GLO-ABF-SEC-ABE-ADFS_CONCUR"},
+            {"Name": "GLO-ABF-SEC-ABE-PFBRSAP1FIL001-Dept-Scanner RXWD"},
+            {"Name": "GLO-ABF-SEC-ABE-PFBRSAP1FIL001-Dept-Public-RXWD"},
+            {"Name": "GLO-ABF-SEC-ABE-PFDEDAR1FIL001-Dept-Public-RXWD"},
+            {"Name": "GLO-ABF-SEC-ABE-PFDEDAR1FIL001-Dept-Transfer-RXWD"},
+            {"Name": "GLO-ABF-SEC-ABE-PFDEDAR1FIL001-Dept-Brazil-RXWD"},
+            {"Name": "GLO-ABF-SEC-ABE-PFDEDAR1FIL001-Dept-BRA-RXWD"},
+            {"Name": "UNI-ABF-DIST-ABE-BR-ABE-Brazil"},
+            {"Name": "DLG-ABF-SEC-ABE-ABDAFILESRV01-Public-RW"},
+            {"Name": "GLO-ABF-SEC-ABF-XAP-NWS-V_BSG_ABFi@ABE@DE@DAR1@DE Depts"},
+            {"Name": "GLO-ABF-SEC-ABF-NWS-N_BSG_ABFi@ABE@BR@SAP1@BR Depts"},
+            {"Name": "GLO-ABF-SEC-ABE-Domain Users"},
+            {"Name": "DLG-ABF-SEC-ABE-ABDAFILESRV01-Transfer-RW"},
+            {"Name": "GLO-ROE-SEC-ABES-Departments-All"},
+            {"Name": "GLO-ABF-SEC-ABI-InactiveAccountCheck"}
+        ],
+		"Attributes":[
+		  {
+		    "Name":"Country",
+		    "Value":"Brazil"
+	      },
+		  {
+		    "Name":"ScriptPath",
+		    "Value":"SSCLogin2.bat"
+	      }
+        ]
+	},
+    {
+		"Name":"ABE_ABEZ_Shanghai",
+		"Group":[
+            {"Name": "UNI-ABF-SEC-ABE-O365-E3_License"},
+            {"Name": "UNI-ABF-SEC-ABF-PPTRAINING_ABE"},
+            {"Name": "UNI-ABF-SEC-ABF-PPTRAINING_Provisioning"},
+            {"Name": "GLO-ABF-SEC-ABE-ADFS_CONCUR"},
+            {"Name": "GLO-ABF-SEC-ABE-PFSGSIN2FIL002-Dept-Scanner-RXWD"},
+            {"Name": "GLO-ABF-SEC-ABE-PFSGSIN2FIL002-Dept-ABEC - All-RXWD"},
+            {"Name": "GLO-ABF-SEC-ABE-PFDEDAR1FIL001-Dept-Public-RXWD"},
+            {"Name": "GLO-ABF-SEC-ABE-PFDEDAR1FIL001-Dept-Transfer-RXWD"},
+            {"Name": "DLG-ABF-SEC-ABE-ABDAFILESRV01-Public-RW"},
+            {"Name": "GLO-ABF-SEC-ABF-XAP-NWS-V_BSG_ABFi@ABE@DE@DAR1@DE Depts"},
+            {"Name": "GLO-ABF-SEC-ABF-NWS-J_BSG_ABFi@ABE@SG@SIN2@SG Depts"},
+            {"Name": "GLO-ABF-SEC-ABE-Domain Users"},
+            {"Name": "DLG-ABF-SEC-ABE-ABDAFILESRV01-Transfer-RW"},
+            {"Name": "GLO-ROE-SEC-ABES-Departments-All"},
+            {"Name": "GLO-ABF-SEC-ABI-InactiveAccountCheck"}
+        ],
+		"Attributes":[
+		  {
+		    "Name":"Country",
+		    "Value":"China"
+	      },
+		  {
+		    "Name":"ScriptPath",
+		    "Value":"SSCLogin2.bat"
+	      }
+        ]
+	},
+	{
+		"Name":"Remote",
+		"Group":[],
+		"Attributes":[
+		  {
+		    "Name":"Office",
+		    "Value":"Remote"
+	          }
+        ]
+	}
+],
+"Department":[
+	{
+		"Name":"Finland_Operators",
+		"Sites":[
+			{"Name":"ABEZ_Rajamaki-"},
+			{"Name":"Remote"}		
+		],
+		"Group":[
+			{"Name": "GLO-ABF-SEC-ABE-Homepage_ policy_for_Roal_Users"},
+			{"Name": "UNI-ABF-SEC-ABE-O365-F3_License"},
+			{"Name": "GLO-ABF-SEC-ABE-WebmailUsers"},
+			{"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Asennus-RXWD"},
+			{"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Dept-Tuotannonkeh-RXWD"},
+			{"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Dept-Public-RXWD"},
+			{"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Dept-Yleiset_tied-RXWD"},
+			{"Name": "GLO-ABF-SEC-ABE-PFDEDAR1FIL001-Dept-Public-RXWD"},
+			{"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Label_DB-RXWD"},
+			{"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Dept-Roal-RXWD"},
+			{"Name": "GLO-ABF-SEC-ABF-XAP-NWS-V_BSG_ABFi@ABE@DE@DAR1@DE Depts"},
+			{"Name": "GLO-ABF-SEC-ABF-NWS-X_BSG_ABFi@ABE@FI@RAJ1@FI Depts"},
+			{"Name": "DLG-ABF-SEC-ABE-SRVFILE1-Departments-Roal-RW"},
+			{"Name": "DLG-ABF-SEC-ABE-SRVFILE1-Departments-Tuotannonkehitys-RW"},
+			{"Name": "DLG-ABF-SEC-ABE-SRVFILE1-Departments-Public-RW"},
+			{"Name": "DLG-ABF-SEC-ABE-SRVFILE1-Departments-Yleiset_tiedostot-RW"},
+			{"Name": "GLO-ABF-SEC-ABE-Roal-GPO_Sharepoint-ABFi_IEsettings"},
+			{"Name": "GLO-ABF-SEC-ABE-Roal_Jauheosasto_Email"},
+			{"Name": "GLO-ABF-SEC-ABE-Roal_ACL_Group"},
+			{"Name": "UNI-ABF-DIST-ABE-FI-Roal-Oy"}
+		],
+		"MailEnabledGroups":[],
+		"Attributes":[
+		  {
+		    "Name":"extensionAttribute1",
+		    "Value":"ABEROAUSER"
+	      }
+		]
+	},
+    {
+		"Name":"Finland_QC",
+		"Sites":[
+			{"Name":"ABEZ_Rajamaki-"},
+			{"Name":"Remote"}		
+		],
+		"Group":[
+			{"Name": "GLO-ABF-SEC-ABE-Homepage_ policy_for_Roal_Users"},
+			{"Name": "UNI-ABF-SEC-ABE-O365-E3_License"},
+			{"Name": "UNI-ABF-SEC-ABF-PPTRAINING_ABE"},
+			{"Name": "UNI-ABF-SEC-ABF-PPTRAINING_Provisioning"},
+			{"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Dept-Tuotannonkeh-RXWD"},
+			{"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Dept-Public-RXWD"},
+			{"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Dept-Yleiset_tied-RXWD"},
+			{"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Dept-QC-RXWD"},
+			{"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Dept-Roal-RXWD"},
+			{"Name": "GLO-ABF-SEC-ABF-XAP-NWS-V_BSG_ABFi@ABE@DE@DAR1@DE Depts"},
+			{"Name": "GLO-ABF-SEC-ABF-NWS-X_BSG_ABFi@ABE@FI@RAJ1@FI Depts"},
+			{"Name": "GLO-ABF-SEC-ABF-NWS-R_BSG_ABFi@ABE@GB@SSC1@RnD"},
+			{"Name": "UNI-ABF-DIST-ABE-FI-QCTechnicians"},
+			{"Name": "UNI-ABF-DIST-ABE-FI-Roal-Oy"}
+		],
+		"MailEnabledGroups":[],
+		"Attributes":[
+		  {
+		    "Name":"extensionAttribute1",
+		    "Value":"ROAUSER"
+	      }
+		]
+	},
+    {
+		"Name":"Finland_RnD",
+		"Sites":[
+			{"Name":"ABEZ_Rajamaki-"},
+			{"Name":"Remote"}		
+		],
+		"Group":[
+			{"Name": "GLO-ABF-SEC-ABE-Homepage_ policy_for_Roal_Users"},
+			{"Name": "UNI-ABF-SEC-ABE-O365-E3_License"},
+			{"Name": "UNI-ABF-SEC-ABF-PPTRAINING_ABE"},
+			{"Name": "UNI-ABF-SEC-ABF-PPTRAINING_Provisioning"},
+			{"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Dept-TKLabra-RXWD"},
+			{"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Dept-Tuotannonkeh-RXWD"},
+			{"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Dept-Public-RXWD"},
+			{"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Dept-Yleiset_tied-RXWD"},
+			{"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Dept-Roal-RXWD"},
+			{"Name": "GLO-ABF-SEC-ABF-XAP-NWS-V_BSG_ABFi@ABE@DE@DAR1@DE Depts"},
+			{"Name": "GLO-ABF-SEC-ABF-NWS-X_BSG_ABFi@ABE@FI@RAJ1@FI Depts"},
+			{"Name": "GLO-ABF-SEC-ABF-NWS-R_BSG_ABFi@ABE@GB@SSC1@RnD"},
+			{"Name": "UNI-ABF-DIST-ABE-FI-Roal-Oy"},
+			{"Name": "UNI-ABF-DIST-ABE-FI-Biohouse"}
+		],
+		"MailEnabledGroups":[],
+		"Attributes":[
+		  {
+		    "Name":"extensionAttribute1",
+		    "Value":"ROAUSER"
+	      }
+		]
+	},
+    {
+		"Name":"Finland_Roal",
+		"Sites":[
+			{"Name":"ABEZ_Rajamaki-"},
+			{"Name":"Remote"}		
+		],
+		"Group":[
+			{"Name": "GLO-ABF-SEC-ABE-Homepage_ policy_for_Roal_Users"},
+			{"Name": "UNI-ABF-SEC-ABE-O365-E3_License"},
+			{"Name": "UNI-ABF-SEC-ABF-PPTRAINING_ABE"},
+			{"Name": "UNI-ABF-SEC-ABF-PPTRAINING_Provisioning"},
+			{"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Dept-Tuotannonkeh-RXWD"},
+			{"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Dept-Public-RXWD"},
+			{"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Dept-Yleiset_tied-RXWD"},
+			{"Name": "GLO-ABF-SEC-ABE-PFFIRAJ1FIL001-Dept-Roal-RXWD"},
+			{"Name": "GLO-ABF-SEC-ABF-XAP-NWS-V_BSG_ABFi@ABE@DE@DAR1@DE Depts"},
+			{"Name": "GLO-ABF-SEC-ABF-NWS-X_BSG_ABFi@ABE@FI@RAJ1@FI Depts"},
+			{"Name": "UNI-ABF-DIST-ABE-FI-Roal-Oy"}
+		],
+		"MailEnabledGroups":[],
+		"Attributes":[
+		  {
+		    "Name":"extensionAttribute1",
+		    "Value":"ROAUSER"
+	      }
+		]
+	}
+]
+}
